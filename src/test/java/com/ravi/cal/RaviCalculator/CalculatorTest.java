@@ -21,6 +21,9 @@ public class CalculatorTest {
     @Test
     public void threeXThreeIsNine() throws Exception {
         assertEquals(cal.mulFucn(3, 3), 9);
+	    
+	    
+	    
     }
    
 }
